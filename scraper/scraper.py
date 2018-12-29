@@ -1,5 +1,7 @@
 import requests
+import kivy
 from bs4 import BeautifulSoup
+kivy.require('1.10.1')
 
 starting_url = requests.get('https://www.riderframesandgallery.com/')
 
