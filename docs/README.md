@@ -8,8 +8,8 @@ This project is intended to be a rather basic scraper that has some potential to
 1. [Version History](#version-history)
 
 ## <a name="version-history"></a> Version History
-[0.0.2](#0.0.2)
-[0.0.1](#0.0.1)
+- [0.0.2](#0.0.2)
+- [0.0.1](#0.0.1)
 
 ## <a name="0.0.1"></a> Version 0.0.1 Changes
 - Started project.
